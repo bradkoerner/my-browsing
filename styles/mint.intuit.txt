@@ -1,0 +1,24 @@
+#module-accounts ul li.moduleAccount ul li {
+    padding: 6px;
+}
+
+.CardView .cardContent {
+    margin-top: 4px;
+}
+
+#module-budget table tbody td {
+    padding: 8px 0 18px;
+}
+
+#module-budget table tbody th {
+    padding: 8px 0 18px;
+}
+
+#module-budget.module table tbody td.budget {
+    padding-right: 16px;
+}
+
+#month-line {
+    height: 700px;
+}
+

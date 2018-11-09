@@ -1,0 +1,5 @@
+mint.intuit.com##.promotions-personalized-offers-ui-single-offer
+mint.intuit.com##.adviceWidget.CardView
+mint.intuit.com##.accounts-adv
+mint.intuit.com##.w2sWidget
+mint.intuit.com##.feedbackWidget
